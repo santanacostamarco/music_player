@@ -1,0 +1,6 @@
+[submodule "fe"]
+	path = fe
+	url = git@github.com:santanacostamarco/music_player_nextjs_fe.git
+[submodule "bff"]
+	path = bff
+	url = git@github.com:santanacostamarco/music_player_nestjs_bff.git
