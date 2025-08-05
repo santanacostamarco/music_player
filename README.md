@@ -117,7 +117,7 @@ docker run -d --name spotfy-luizalabs-nginx \
 - [ ] Utilizar paginação (scroll infinito ou não)
 - [ ] Funcionamento offline
 - [ ] Testes unitários
-- [ ] Deploy da aplicação
+- [x] Deploy da aplicação
 
 ### Bônus
 
