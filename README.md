@@ -2,6 +2,12 @@
 
 Projeto front-end Next.js e back-end Nest.js para o desafio técnico LuizaLabs com webserver Nginx.
 
+## Clonar o repositório
+Este projeto contém submodulos que representam as alicacaões de front-end e back-end, portanto, ao clonar o repositório, utilize o parâmetro `--recursive`:
+```bash
+❯ git clone --recursive git@github.com:santanacostamarco/music_player.git 
+```
+
 ## Rodando o back-end
 
 ### 1. Configure as variáveis de ambiente
